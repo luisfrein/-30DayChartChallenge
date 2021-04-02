@@ -49,14 +49,14 @@ books %>%
         plot.margin = margin(25, 25, 10, 25))
 
 #Code to save the plot svg or png
-ggsave("part-to-whole.svg",
-       width = 15,
-       height = 15,
-       units = "cm",
-       dpi = 320)
+# ggsave("part-to-whole.svg",
+#        width = 15,
+#        height = 15,
+#        units = "cm",
+#        dpi = 320)
 
-ggsave("part-to-whole.png",
-       width = 15,
-       height = 15,
-       units = "cm",
-       dpi = 320)
+# ggsave("part-to-whole.png",
+#        width = 15,
+#        height = 15,
+#        units = "cm",
+#        dpi = 320)
