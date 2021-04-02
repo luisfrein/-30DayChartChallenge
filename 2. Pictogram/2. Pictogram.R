@@ -53,7 +53,7 @@ reservas %>%
                                    size = 12,
                                    color = "#1E2619"),
         axis.text.x = element_blank(),
-        axis.ticks.x = element_blank())
+        axis.ticks = element_blank())
 
 #Spanish Plot
 reservas %>% 
@@ -101,7 +101,7 @@ reservas %>%
                                    size = 12,
                                    color = "#1E2619"),
         axis.text.x = element_blank(),
-        axis.ticks.x = element_blank())
+        axis.ticks = element_blank())
 
 #Code to save the plot, svg or png
 # ggsave("2Pictogram.png",
