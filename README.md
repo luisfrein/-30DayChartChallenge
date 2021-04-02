@@ -9,6 +9,6 @@ In Which Language Do I Prefer Reading?
 
 **Day 2: Pictogram** [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2.%20Pictogram/2.%20Pictogram.R)
 
-In Which Language Do I Prefer Reading?
+Venezuela International Reserves (USD)
 
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2.%20Pictogram/2Pictogram_English.png)
