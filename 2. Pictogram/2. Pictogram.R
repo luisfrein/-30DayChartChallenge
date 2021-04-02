@@ -76,7 +76,7 @@ reservas %>%
                      breaks = scales::breaks_pretty(n = 5)) +
   labs(title = "Reservas Internacionales Venezolanas (Dólar Estadounidense)",
        subtitle = "<span style='font-family: \"Font Awesome 5 Free Solid\";color:#85bb65;'>&#xf0d6;</span> = 1 millardo<br>",
-       caption = "<br>Creado por **@luisfreii** | Fuente: **Central Bank of Venezuela**") +
+       caption = "<br>Creado por **@luisfreii** | Fuente: **Banco Central de Venezuela**") +
   theme(plot.title = element_text(family = "Lato",
                                   size = 20,
                                   color = "#1E2619"),
