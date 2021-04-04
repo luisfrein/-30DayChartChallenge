@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 1296.00 648.00"
+   viewBox="0 0 1080.00 648.00"
    version="1.1"
    id="svg40"
    sodipodi:docname="3.Historical.svg"
@@ -39,9 +39,9 @@
      inkscape:window-height="716"
      id="namedview42"
      showgrid="false"
-     inkscape:zoom="1.1253621"
-     inkscape:cx="553.52375"
-     inkscape:cy="434.41715"
+     inkscape:zoom="0.84567901"
+     inkscape:cx="594.06734"
+     inkscape:cy="324"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -68,109 +68,109 @@
   <rect
      x="0.00"
      y="0.00"
-     width="1296.00"
+     width="1080.00"
      height="648.00"
      style="stroke-width: 0.75; stroke: #F5F5F5; fill: #F5F5F5;"
      id="rect8" />
   <rect
      x="24.91"
      y="24.91"
-     width="1246.19"
-     height="589.54"
+     width="1030.19"
+     height="584.72"
      style="stroke-width: 0.75; stroke: #F5F5F5; fill: #F5F5F5;"
      id="rect10" />
   <rect
-     x="81.55"
-     y="149.15"
-     width="1129.13"
-     height="438.50"
+     x="71.73"
+     y="148.13"
+     width="933.42"
+     height="434.92"
      style="stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #1F1F1F;"
      id="rect12" />
   <rect
-     x="1210.68"
-     y="149.15"
-     width="3.76"
-     height="438.50"
+     x="1005.16"
+     y="148.13"
+     width="3.11"
+     height="434.92"
      style="stroke-width: 1.07; stroke: none; stroke-linecap: square; stroke-linejoin: miter; fill: #F50021;"
      id="rect14" />
   <text
-     x="602.07"
-     y="363.93"
-     style="font-size: 12.80px; font-weight: bold; fill: #F5F5F5; font-family: Libre Franklin;"
-     textLength="88.09px"
+     x="460.14"
+     y="357.65"
+     style="font-size: 22.76px; font-weight: bold; fill: #F5F5F5; font-family: Libre Franklin;"
+     textLength="156.60px"
      lengthAdjust="spacingAndGlyphs"
      id="text16">EARTH’S AGE</text>
   <text
-     x="583.85"
-     y="382.37"
-     style="font-size: 12.80px; font-weight: bold; fill: #F5F5F5; font-family: Libre Franklin;"
-     textLength="124.54px"
+     x="427.74"
+     y="390.42"
+     style="font-size: 22.76px; font-weight: bold; fill: #F5F5F5; font-family: Libre Franklin;"
+     textLength="221.41px"
      lengthAdjust="spacingAndGlyphs"
      id="text18">4.5 BILLION YEARS</text>
   <text
-     x="1085.23"
-     y="47.849998"
-     style="font-size:11.04px;font-family:'Libre Franklin';fill:#f50021"
-     textLength="95.110001"
+     x="901.44"
+     y="45.529999"
+     style="font-size:17.07px;font-family:'Libre Franklin';fill:#f50021"
+     textLength="147.07001"
      lengthAdjust="spacingAndGlyphs"
      id="text20"
-     transform="translate(58.584981,27.000082)">HUMANITY’S AGE</text>
+     transform="translate(0,17.999641)">HUMANITY’S AGE</text>
   <text
-     x="1085.23"
-     y="63.75"
-     style="font-size:11.04px;font-family:'Libre Franklin';fill:#f50021"
-     textLength="86.459999"
+     x="901.44"
+     y="70.110001"
+     style="font-size:17.07px;font-family:'Libre Franklin';fill:#f50021"
+     textLength="133.71001"
      lengthAdjust="spacingAndGlyphs"
      id="text22"
-     transform="translate(59.124088,26.014599)">200,000 YEARS</text>
+     transform="translate(0,17.999639)">200,000 YEARS</text>
   <polyline
-     points="1210.68,163.76 1210.76,163.54 1211.16,162.37 1211.84,160.38 1212.55,158.29 1213.17,156.41 1213.70,154.68 1214.04,153.48 1214.47,151.79 1214.84,150.18 1215.14,148.71 1215.43,147.30 1215.71,145.77 1215.98,144.11 1216.16,142.88 1216.36,141.15 1216.52,139.51 1216.63,138.01 1216.72,136.57 1216.80,135.02 1216.86,133.34 1216.87,132.10 1216.84,130.36 1216.78,128.71 1216.70,127.20 1216.60,125.76 1216.48,124.22 1216.31,122.54 1216.16,121.31 1215.91,119.59 1215.63,117.96 1215.34,116.48 1215.06,115.07 1214.74,113.55 1214.35,111.91 1214.04,110.71 1213.56,109.02 1213.01,107.27 1212.36,105.32 1211.63,103.20 1211.01,101.38 1210.71,100.51 1210.68,100.43 "
+     points="1005.16,162.63 1005.23,162.41 1005.63,161.23 1006.31,159.24 1007.02,157.17 1007.63,155.30 1008.16,153.58 1008.48,152.43 1008.91,150.75 1009.28,149.15 1009.58,147.68 1009.86,146.27 1010.14,144.75 1010.42,143.09 1010.58,141.92 1010.79,140.20 1010.94,138.56 1011.05,137.06 1011.15,135.63 1011.23,134.09 1011.28,132.41 1011.29,131.22 1011.26,129.49 1011.20,127.84 1011.12,126.35 1011.02,124.92 1010.90,123.38 1010.73,121.70 1010.58,120.52 1010.33,118.81 1010.06,117.19 1009.77,115.72 1009.49,114.31 1009.17,112.80 1008.78,111.16 1008.48,110.01 1008.00,108.33 1007.45,106.58 1006.81,104.64 1006.08,102.53 1005.47,100.72 1005.18,99.89 1005.16,99.81 "
      style="stroke-width: 1.07; stroke: #F50021; stroke-linecap: butt;"
      id="polyline24" />
   <polygon
-     points="1216.02,105.09 1210.68,100.43 1209.31,107.38 "
+     points="1010.49,104.47 1005.16,99.81 1003.78,106.76 "
      style="stroke-width: 1.07; stroke: #F50021; stroke-linecap: butt; fill: #F50021;"
      id="polygon26" />
   <text
-     x="1109.60"
-     y="626.22"
-     style="font-size: 8.80px; fill: #858585; font-family: Arial;"
-     textLength="22.01px"
+     x="794.28"
+     y="625.13"
+     style="font-size: 14.00px; fill: #858585; font-family: Arial;"
+     textLength="35.02px"
      lengthAdjust="spacingAndGlyphs"
      id="text28">Made</text>
   <text
-     x="1134.05"
-     y="626.22"
-     style="font-size: 8.80px; fill: #858585; font-family: Arial;"
-     textLength="9.29px"
+     x="833.19"
+     y="625.13"
+     style="font-size: 14.00px; fill: #858585; font-family: Arial;"
+     textLength="14.79px"
      lengthAdjust="spacingAndGlyphs"
      id="text30">by</text>
   <text
-     x="1145.79"
-     y="626.22"
-     style="font-size: 8.80px; font-weight: bold; fill: #858585; font-family: Arial;"
-     textLength="39.88px"
+     x="851.86"
+     y="625.13"
+     style="font-size: 14.00px; font-weight: bold; fill: #858585; font-family: Arial;"
+     textLength="63.44px"
      lengthAdjust="spacingAndGlyphs"
      id="text32">@luisfreii</text>
   <text
-     x="1188.12"
-     y="626.22"
-     style="font-size: 8.80px; fill: #858585; font-family: Arial;"
-     textLength="2.29px"
+     x="919.19"
+     y="625.13"
+     style="font-size: 14.00px; fill: #858585; font-family: Arial;"
+     textLength="3.64px"
      lengthAdjust="spacingAndGlyphs"
      id="text34">|</text>
   <text
-     x="1192.85"
-     y="626.22"
-     style="font-size: 8.80px; fill: #858585; font-family: Arial;"
-     textLength="27.88px"
+     x="926.72"
+     y="625.13"
+     style="font-size: 14.00px; fill: #858585; font-family: Arial;"
+     textLength="48.25px"
      lengthAdjust="spacingAndGlyphs"
-     id="text36">Source</text>
+     id="text36">Source:</text>
   <text
-     x="1223.17"
-     y="626.22"
-     style="font-size: 8.80px; font-weight: bold; fill: #858585; font-family: Arial;"
-     textLength="47.92px"
+     x="978.86"
+     y="625.13"
+     style="font-size: 14.00px; font-weight: bold; fill: #858585; font-family: Arial;"
+     textLength="76.23px"
      lengthAdjust="spacingAndGlyphs"
      id="text38">Kurzgesagt</text>
 </svg>

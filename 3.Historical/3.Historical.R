@@ -21,11 +21,12 @@ ggplot(earth_history, aes(x = 1, y = x, fill = fct_rev(color))) +
   coord_flip(clip = "off") +
   annotate("text", x = 1, y = 2250000000, label = "EARTH’S AGE\n4.5 BILLION YEARS", color = "#F5F5F5",
            family = "Libre Franklin",
-           size = 4.5,
+           size = 8,
            fontface = "bold") +
   annotate("text", x = 1.65, y = 4000000000, label = "HUMANITY’S AGE\n200,000 YEARS", hjust = 0,
            color = "#F50021",
-           family = "Libre Franklin") +
+           family = "Libre Franklin",
+           size = 6) +
   annotate("curve", 
            x = 1.42,
            xend = 1.55,
@@ -34,11 +35,12 @@ ggplot(earth_history, aes(x = 1, y = x, fill = fct_rev(color))) +
            curvature = 0.2, 
            arrow = arrow(length = unit(0.25, "cm"), type = "closed"),
            color = "#F50021") +
-  labs(caption = "Made by **@luisfreii** | Source **Kurzgesagt**") +
+  labs(caption = "Made by **@luisfreii** | Source: **Kurzgesagt**") +
   theme_void() +
   theme(plot.margin = margin(25, 25, 20, 25),
         plot.caption.position = "plot",
-        plot.caption = element_markdown(color = "#858585"),
+        plot.caption = element_markdown(color = "#858585",
+                                        size = 14),
         plot.background = element_rect(color = "#F5F5F5",
                                        fill = "#F5F5F5"),
         panel.background = element_rect(color = "#F5F5F5",
@@ -46,7 +48,7 @@ ggplot(earth_history, aes(x = 1, y = x, fill = fct_rev(color))) +
 
 #Code to save the plot    
 # ggsave("3.Historical.svg",
-#        width = 18,
+#        width = 15,
 #        height = 9,
 #        dpi = 320)
 
