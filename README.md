@@ -22,8 +22,15 @@ Earth's and Humanity's Age
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/3.Historical/3.Historical.png)
 ---
 
-**Day 3: Magical** [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/4.Magical/4.Magical.R)
+**Day 4: Magical** [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/4.Magical/4.Magical.R)
 
 Times I Searched 'Magic' in Google
 
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/4.Magical/4.Magical.png)
+---
+
+**Day 5: Slope** [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/5.Slope/5.Slope.R)
+
+Times I Searched 'Magic' in Google
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/5.Slope/5.Slope.png)
