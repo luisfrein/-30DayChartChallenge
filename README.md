@@ -34,3 +34,10 @@ Times I Searched 'Magic' in Google
 Number of Venezuelan Migrants
 
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/5.Slope/5.Slope.png)
+---
+
+**Day 6: Experimental** 🌳 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/6.Experimental/W15_Deforestation.R)
+
+Leading causes of loss of forest in Brazil
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W15_Deforestation/6.Experimental.png)
