@@ -41,3 +41,11 @@ Number of Venezuelan Migrants
 Leading causes of loss of forest in Brazil
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W15_Deforestation/6.Experimental.png)
+---
+
+**Day 7: Physical** 🌳 
+
+My attempt at manking a physical (hand drawn) histogram.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/7.Physical/7.Physical.jpg)
+
