@@ -50,14 +50,14 @@ My attempt at manking a physical (hand drawn) histogram.
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/7.Physical/7.Physical.jpg)
 ---
 
-**Day 8: Animal** 🦈
+**Day 8: Animal** 🦈 [(code)]https://github.com/luisfrein/-30DayChartChallenge/blob/master/8.Animal/8.Animal.R)
 
 Fatan and non-fatal shark attacks.
 
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/8.Animal/8.Animal.png)
 ---
 
-**Day 9: Statistics** 💰
+**Day 9: Statistics** 💰 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/9.Statistics/9.Statistics.R)
 
 Bond Yields for 69 countries.
 
