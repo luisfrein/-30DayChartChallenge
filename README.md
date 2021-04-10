@@ -50,7 +50,7 @@ My attempt at manking a physical (hand drawn) histogram.
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/7.Physical/7.Physical.jpg)
 ---
 
-**Day 8: Animal** 🦈 [(code)]https://github.com/luisfrein/-30DayChartChallenge/blob/master/8.Animal/8.Animal.R)
+**Day 8: Animal** 🦈 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/8.Animal/8.Animal.R)
 
 Fatan and non-fatal shark attacks.
 
