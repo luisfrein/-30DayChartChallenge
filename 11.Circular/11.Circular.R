@@ -53,7 +53,7 @@ oil_production %>%
                       limits = c(380, 2600),
                       breaks = seq(500, 2500, 500),
                       labels = c("500,000", "1,000,000", "1,500,000", "2,000,000", "2,500,000")) +
-  labs(fill = "Monthly Crude Oil Production",
+  labs(fill = "Monthly Crude Oil Production (In Barrels)",
        title = "Venezuela's Oil Production",
        subtitle = "Venezuela's main exports are oil. Here is the\ncountry's crude oil production from 2015 to 2020.",
        caption = "Made by **@luisfreii** | Source: **U.S. Energy Information Administration (EIA)**") +
