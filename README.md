@@ -62,4 +62,11 @@ Fatan and non-fatal shark attacks.
 Bond Yields for 69 countries.
 
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/9.Statistics/yields.png)
+---
+
+**Day 10: Abstract** 🎨 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/10.Abstract/10.Abstract.R)
+
+Abstract Art with the colors I used for the first 9 of the #30DayChartChallenge.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/10.Abstract/10.Abstract.png)
 
