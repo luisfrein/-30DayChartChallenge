@@ -22,25 +22,12 @@ tibble(
   text = 2016:2020
 ) -> annotations2 #This is a super bad name for this
   
+#Create month and year columns with lubridate
 oil_production %>% 
   mutate(year = lubridate::year(date),
          month = lubridate::month(date)) -> oil_production
 
-ggplot(oil_production, aes(date, crude_oil_production_venezuela_monthly, fill = crude_oil_production_venezuela_monthly)) +
-  geom_col() +
-  ylim(-500, 2600) +
-  coord_polar() +
-  scale_fill_gradient(low = "#faae7b", 
-                      high = "#432371",
-                      limits = c(380, 2600),
-                      breaks = seq(500, 2500, 500)) +
-  labs(fill = "Monthly Crude Oil Production") +
-  guides(fill = guide_colorbar(title.position = "top",
-                               title.hjust = .5, 
-                               barwidth = unit(20, 'lines'), 
-                               barheight = unit(.5, 'lines'))) +
-  theme(legend.position = "top")
-
+#Plot
   ggplot() +
   geom_tile(oil_production,
             mapping = aes(month, year,
@@ -64,14 +51,15 @@ ggplot(oil_production, aes(date, crude_oil_production_venezuela_monthly, fill = 
   scale_fill_gradient(low = "#ffba08", 
                       high = "#9d0208",
                       limits = c(380, 2600),
-                      breaks = seq(500, 2500, 500)) +
+                      breaks = seq(500, 2500, 500),
+                      labels = c("500,000", "1,000,000", "1,500,000", "2,000,000", "2,500,000")) +
   labs(fill = "Monthly Crude Oil Production",
        title = "Venezuela's Oil Production",
        subtitle = "Venezuela's main exports are oil. Here is the\ncountry's crude oil production from 2015 to 2020.",
        caption = "Made by **@luisfreii** | Source: **U.S. Energy Information Administration (EIA)**") +
   guides(fill = guide_colorbar(title.position = "top",
                                title.hjust = .5, 
-                               barwidth = unit(15, 'lines'), 
+                               barwidth = unit(20, 'lines'), 
                                barheight = unit(.5, 'lines'))) +
   theme_void() +
   theme(legend.position = "top",
