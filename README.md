@@ -19,6 +19,7 @@ Repo for the #30DayChartChallenge
  - Day 9: [Statistics 💰](https://github.com/luisfrein/-30DayChartChallenge/tree/master/9.Statistics)
  - Day 10: [Abstract 🎨](https://github.com/luisfrein/-30DayChartChallenge/tree/master/10.Abstract)
  - Day 11: [Circular 🛢️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/11.Circular)
+ - Day 12: [Strips 💱](https://github.com/luisfrein/-30DayChartChallenge/tree/master/12.Stripes)
  
 <!-- tocstop -->
 </details>
@@ -99,4 +100,11 @@ Abstract Art with the colors I used for the first 9 of the #30DayChartChallenge.
 Venezuela's crude oil exports from 2015 to 2020.
 
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/11.Circular/11.Circular.png)
+---
+
+**Day 12: Strips** 💱 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/12.Stripes/12.Stripes.R)
+
+Daily Ethereum Price. March 2016 to March 2021.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/12.Stripes/12.Stripes.png)
 
