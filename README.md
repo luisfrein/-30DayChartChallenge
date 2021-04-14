@@ -23,6 +23,7 @@ Repo for the #30DayChartChallenge
 
  **Relationships**
  - Day 13: [Correlation 📈](https://github.com/luisfrein/-30DayChartChallenge/tree/master/13.Correlation)
+ - Day 14: [Space 🌍](https://github.com/luisfrein/-30DayChartChallenge/tree/master/14.Space)
  
 <!-- tocstop -->
 </details>
@@ -117,3 +118,10 @@ Daily Ethereum Price. March 2016 to March 2021.
 Scatterplot of Corruption Perception Index and GDP Per Capita.
 
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/13.Correlation/13.Correlation.png)
+---
+
+**Day 14: Space** 🌍 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/14.Space/14.Space.R)
+
+A Year in Our Solar System.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/14.Space/14.Space.png)
