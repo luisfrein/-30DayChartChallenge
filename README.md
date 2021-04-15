@@ -24,6 +24,7 @@ Repo for the #30DayChartChallenge
  **Relationships**
  - Day 13: [Correlation 📈](https://github.com/luisfrein/-30DayChartChallenge/tree/master/13.Correlation)
  - Day 14: [Space 🌍](https://github.com/luisfrein/-30DayChartChallenge/tree/master/14.Space)
+ - Day 15: [Multivariate 💹](https://github.com/luisfrein/-30DayChartChallenge/tree/master/15.Multivariate)
  
 <!-- tocstop -->
 </details>
@@ -125,3 +126,10 @@ Scatterplot of Corruption Perception Index and GDP Per Capita.
 A Year in Our Solar System.
 
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/14.Space/14.Space.png)
+---
+
+**Day 15: Multivariate** 💹 [(code)]https://github.com/luisfrein/-30DayChartChallenge/blob/master/15.Multivariate/15.Multivariate.R)
+
+Human Development Index And Its Components.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/15.Multivariate/15.Multivariate.png)
