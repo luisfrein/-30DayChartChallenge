@@ -25,6 +25,7 @@ Repo for the #30DayChartChallenge
  - Day 13: [Correlation 📈](https://github.com/luisfrein/-30DayChartChallenge/tree/master/13.Correlation)
  - Day 14: [Space 🌍](https://github.com/luisfrein/-30DayChartChallenge/tree/master/14.Space)
  - Day 15: [Multivariate 💹](https://github.com/luisfrein/-30DayChartChallenge/tree/master/15.Multivariate)
+ - Day 16_ [Trees 🌳](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W05_Plastic_Pollution)
  
 <!-- tocstop -->
 </details>
@@ -128,8 +129,15 @@ A Year in Our Solar System.
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/14.Space/14.Space.png)
 ---
 
-**Day 15: Multivariate** 💹 [(code)]https://github.com/luisfrein/-30DayChartChallenge/blob/master/15.Multivariate/15.Multivariate.R)
+**Day 15: Multivariate** 💹 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/15.Multivariate/15.Multivariate.R)
 
 Human Development Index And Its Components.
 
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/15.Multivariate/15.Multivariate.png)
+---
+
+**Day 16: Trees** 🌳 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W05_Plastic_Pollution/W05_Plastic_Pollution.R)
+
+Treemap of The Philippines worst polluters.
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W05_Plastic_Pollution/Philippines_worst.png)
