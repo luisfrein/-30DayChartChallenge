@@ -25,7 +25,7 @@ Repo for the #30DayChartChallenge
  - Day 13: [Correlation 📈](https://github.com/luisfrein/-30DayChartChallenge/tree/master/13.Correlation)
  - Day 14: [Space 🌍](https://github.com/luisfrein/-30DayChartChallenge/tree/master/14.Space)
  - Day 15: [Multivariate 💹](https://github.com/luisfrein/-30DayChartChallenge/tree/master/15.Multivariate)
- - Day 16_ [Trees 🌳](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W05_Plastic_Pollution)
+ - Day 16_ [Trees ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/16.%20Trees)
  - Day 17_ [Pop Culture ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/17.Pop%20Culture)
  
 <!-- tocstop -->
@@ -137,11 +137,11 @@ Human Development Index And Its Components.
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/15.Multivariate/15.Multivariate.png)
 ---
 
-**Day 16: Trees** 🌳 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W05_Plastic_Pollution/W05_Plastic_Pollution.R)
+**Day 16: Trees** ⚔️ [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W05_Plastic_Pollution/W05_Plastic_Pollution.R)
 
-Treemap of The Philippines worst polluters.
+The 30 Game of Thrones Characters With the Most Appearances.
 
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W05_Plastic_Pollution/Philippines_worst.png)
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/16.%20Trees/D16.Trees2.png)
 ---
 
 **Day 17: Pop Culture** ⚔️ [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/17.Pop%20Culture/17.Pop%20Culture.R)
