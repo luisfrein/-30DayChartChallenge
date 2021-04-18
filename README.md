@@ -25,8 +25,8 @@ Repo for the #30DayChartChallenge
  - Day 13: [Correlation 📈](https://github.com/luisfrein/-30DayChartChallenge/tree/master/13.Correlation)
  - Day 14: [Space 🌍](https://github.com/luisfrein/-30DayChartChallenge/tree/master/14.Space)
  - Day 15: [Multivariate 💹](https://github.com/luisfrein/-30DayChartChallenge/tree/master/15.Multivariate)
- - Day 16_ [Trees ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/16.%20Trees)
- - Day 17_ [Pop Culture ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/17.Pop%20Culture)
+ - Day 16: [Trees ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/16.%20Trees)
+ - Day 17: [Pop Culture ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/17.Pop%20Culture)
  
 <!-- tocstop -->
 </details>
