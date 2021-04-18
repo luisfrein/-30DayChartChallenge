@@ -10,7 +10,7 @@ library(ggtext)
 readxl::read_xlsx('HDI_2019.xlsx') %>% 
   janitor::clean_names() -> hdi
 
-#Plot
+#Set HDI categories
 hdi %>% 
   mutate(mean_years_of_schooling = as.numeric(mean_years_of_schooling),
          hdi_category = case_when(hdi_2019 >= .8 ~ 'Very High',
@@ -19,17 +19,7 @@ hdi %>%
                                   TRUE ~ 'Medium')) %>% 
   filter(!is.na(mean_years_of_schooling)) -> hdi
 
-set.seed(1)
-hdi %>% 
-  group_by(hdi_category) %>% 
-  sample_n(8) %>% 
-  ggplot(aes(mean_years_of_schooling, gni_per_capita, color = hdi_category, size = life_expectancy_at_birth, label = country)) +
-  geom_point() +
-  scale_y_log10(labels = label_comma()) +
-  geom_text_repel()
-  geom_mark_hull(aes(label = hdi_category, group = hdi_category))
-  
-
+#Plot
   hdi %>% 
     ggplot(aes(mean_years_of_schooling, gni_per_capita, color = hdi_2019, label = country)) +
     geom_smooth(se = FALSE, 
@@ -76,11 +66,11 @@ hdi %>%
 
   
   #Code to save the plot
-  ggsave('15.Multivariate.svg',
-         width = 26,
-         height = 16,
-         units = 'cm',
-         dpi = 320)
+  # ggsave('15.Multivariate.svg',
+  #        width = 26,
+  #        height = 16,
+  #        units = 'cm',
+  #        dpi = 320)
   # 
   # ggsave('15.Multivariate.png',
   #        width = 26,
