@@ -26,6 +26,7 @@ Repo for the #30DayChartChallenge
  - Day 14: [Space 🌍](https://github.com/luisfrein/-30DayChartChallenge/tree/master/14.Space)
  - Day 15: [Multivariate 💹](https://github.com/luisfrein/-30DayChartChallenge/tree/master/15.Multivariate)
  - Day 16_ [Trees 🌳](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W05_Plastic_Pollution)
+ - Day 17_ [Pop Culture ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/17.Pop%20Culture)
  
 <!-- tocstop -->
 </details>
@@ -141,3 +142,10 @@ Human Development Index And Its Components.
 Treemap of The Philippines worst polluters.
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W05_Plastic_Pollution/Philippines_worst.png)
+---
+
+**Day 17: Pop Culture** ⚔️ [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/17.Pop%20Culture/17.Pop%20Culture.R)
+
+Game of Thrones Thorugh the Seasons.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/17.Pop%20Culture/17.Pop%20Culture.png)
