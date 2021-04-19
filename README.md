@@ -29,6 +29,8 @@ Repo for the #30DayChartChallenge
  - Day 17: [Pop Culture ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/17.Pop%20Culture)
  - Day 18: [Connections ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/18.Connections)
  
+ **Time Series**
+ - Day 19: [Global Change 🖥️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/19.Global%20Change)
 <!-- tocstop -->
 </details>
 
@@ -157,3 +159,10 @@ Game of Thrones Thorugh the Seasons.
 Most common word pairs in Game of Thrones episode summaries.
 
 ![Network plot that shows the most common word pairs found in Game of Thrones episode summaries. Pairs like Jon Snow, King's landing, Arya runs, castle black, difficult decision, etc.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/18.Connections/D18.Connections.png)
+---
+
+**Day 19: Global Change** 🖥️ [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/19.Global%20Change/19.Global%20Change.R)
+
+Global Internet access by Income.
+
+![Line plot that shows the percentage of individuals with access to the internet by 3 different country groups, from 1990 to 2017. High income countries (around 80%), middle-income countries (around 40%), and low income countries (around 18%)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/19.Global%20Change/D19.Global%20Change.gif)
