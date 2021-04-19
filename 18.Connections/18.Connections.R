@@ -53,7 +53,7 @@ set.seed(1512)
                    color = '#384042',
                    family = 'Roboto') +
     labs(title = 'The Game of Bigrams',
-        subtitle = 'Most common bigrams (word pairs) found in Game of Thrones episodes summary.',
+        subtitle = 'Most common word pairs found in Game of Thrones episode summaries.',
         caption = '<br>Graph: **@luisfreii**| Source: **Kaggle**') +
     theme_void() +
       theme(plot.margin = margin(25, 15, 10, 15),
@@ -81,6 +81,6 @@ set.seed(1512)
 
 # ggsave("D18.Connections.svg",
 #        width = 22,
-#        height = 15,
+#        height = 20,
 #        dpi = 500,
 #        units = "cm")
