@@ -27,6 +27,7 @@ Repo for the #30DayChartChallenge
  - Day 15: [Multivariate 💹](https://github.com/luisfrein/-30DayChartChallenge/tree/master/15.Multivariate)
  - Day 16: [Trees ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/16.%20Trees)
  - Day 17: [Pop Culture ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/17.Pop%20Culture)
+ - Day 18: [Connections ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/18.Connections)
  
 <!-- tocstop -->
 </details>
@@ -149,3 +150,10 @@ The 30 Game of Thrones Characters With the Most Appearances.
 Game of Thrones Thorugh the Seasons.
 
 ![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/17.Pop%20Culture/17.Pop%20Culture.png)
+---
+
+**Day 18: Connections** ⚔️ [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/18.Connections/18.Connections.R)
+
+Most common word pairs in Game of Thrones episode summaries.
+
+![Network plot that shows the most common word pairs found in Game of Thrones episode summaries. Pairs like Jon Snow, King's landing, Arya runs, castle black, difficult decision, etc.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/18.Connections/D18.Connections.png)
