@@ -44,7 +44,7 @@ doge %>%
         plot.margin = margin(25, 15, 10, 15)) -> p1
 
 #Add animation. Data appears gradually.
-a1 <- p1  + geom_image(aes(image = image), size = 0.8) + transition_reveal(date) 
+a1 <- p1  + geom_image(aes(image = image), size = 0.5) + transition_reveal(date) 
 
 anim <- animate(a1, 
                 nframes = 26, end_pause = 10,
