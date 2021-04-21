@@ -31,6 +31,7 @@ Repo for the #30DayChartChallenge
  
  **Time Series**
  - Day 19: [Global Change 🖥️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/19.Global%20Change)
+ - Day 20: [Upwards 🐶](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D20.Upwards)
 <!-- tocstop -->
 </details>
 
@@ -165,4 +166,11 @@ Most common word pairs in Game of Thrones episode summaries.
 
 Global Internet access by Income.
 
-![Line plot that shows the percentage of individuals with access to the internet by 3 different country groups, from 1990 to 2017. High income countries (around 80%), middle-income countries (around 40%), and low income countries (around 18%)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/19.Global%20Change/D19.Global%20Change.gif)
+![Line plot that shows the percentage of individuals with access to the internet by 3 different country groups, from 1990 to 2017. High income countries (around 80%), middle-income countries (around 40%), and low income countries (around 18%). It is a gif so you can see the movement of the lines animated.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/19.Global%20Change/D19.Global%20Change.gif)
+---
+
+**Day 20: Upwards** 🐶 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D20.Upwards/D20.Upwards.R)
+
+Daily Doge Coin price from the start of the year to Doge Day..
+
+![Line plot that shows the rise of DogeCoin from the start of the year to Doge Day (April 20). At the start of the year Doge Coin was worth less than 10 cents, by April 20 it was worth around 37 cents. It is a gif so you can see the movement in price animated.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D20.Upwards/D20.Upwards.gif)
