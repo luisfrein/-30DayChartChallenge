@@ -44,12 +44,12 @@ doge %>%
         plot.margin = margin(25, 15, 10, 15)) -> p1
 
 #Add animation. Data appears gradually.
-a1 <- p1  + geom_image(aes(image = image), size = 0.1) + transition_reveal(date) 
+a1 <- p1  + geom_image(aes(image = image), size = 0.8) + transition_reveal(date) 
 
 anim <- animate(a1, 
                 nframes = 26, end_pause = 10,
                 fps = 10, 
-                height = 12, width = 12, units = "cm", res = 150)
+                height = 12, width = 15, units = "cm", res = 150)
 
 #Code to save the animation
 #anim_save("D20.Upwards.gif", animation = last_animation())
