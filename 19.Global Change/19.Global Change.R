@@ -1,7 +1,6 @@
 #Load packages
 library(tidyverse)
 library(extrafont)
-library(ggtext)
 library(gganimate)
 library(scales)
 
@@ -11,10 +10,11 @@ internet_usage_percentage_raw <- read_csv("Individuals using the Internet (% of 
 #Set text encoding
 Encoding(internet_usage_percentage_raw$`Country Name`) <- "latin1"
 
+#Filter out the years before 1990, and the years after 2017
 internet_usage_percentage_raw %>% 
   select(-(3:34), -(63:65)) %>% 
-  pivot_longer(3:30, names_to = "year", values_to = "usage_percentage") %>%   mutate(`Country Name` = fct_recode(`Country Name`, "América Latina y\nel Caribe" = "América Latina y el Caribe"),
-                                                                                     year = as.numeric(year)) -> internet_usage_percentage
+  pivot_longer(3:30, names_to = "year", values_to = "usage_percentage") %>%   
+  mutate(year = as.numeric(year)) -> internet_usage_percentage
 
 #Plot
 internet_usage_percentage %>% 
@@ -29,12 +29,12 @@ internet_usage_percentage %>%
        subtitle = "Percentage of individuals using the internet in <span style='color:#2D7DD2;'>**high-income countries**</span>,<br><span style='color:#858585;'>**middle-income countries**</span>, and <span style='color:#9C3848;'>**low-income countries**</span>.",
        caption = "<br>Graph: **@luisfreii** | Source: **World Bank**") +
   theme_minimal() +
-  theme(plot.title = element_markdown(family = 'IBM Plex Sans',
+  theme(plot.title = ggtext::element_markdown(family = 'IBM Plex Sans',
                                       size = 16,
                                       color = "#525252"),
-        plot.subtitle = element_markdown(family = 'Fira Sans',
+        plot.subtitle = ggtext::element_markdown(family = 'Fira Sans',
                                          color = "#525252"),
-        plot.caption = element_markdown(family = 'Fira Sans',
+        plot.caption = ggtext::element_markdown(family = 'Fira Sans',
                                         size = 8,
                                         color = "#525252"),
         plot.title.position = 'plot',
@@ -59,7 +59,18 @@ a1 <- p1 + transition_reveal(year) + shadow_mark()
                  nframes = 26, end_pause = 10,
                  fps = 10, 
                  height = 15, width = 20, units = "cm", res = 150)
+ 
+#Watch the animation on the Viewer 
  anim
  
 #Code to save the animation
- anim_save("D19.Global Change.gif", animation = last_animation())
+# anim_save("D19.Global Change.gif", animation = last_animation())
+ 
+#Code to save the plot
+ # ggsave('D19.Global Change.png',
+ #        plot = p1,
+ #        width = 20,
+ #        height = 15,
+ #        units = 'cm',
+ #        dpi = 320,
+ #        type = 'cairo-png')
