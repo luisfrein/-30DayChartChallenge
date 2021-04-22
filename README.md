@@ -33,6 +33,7 @@ Repo for the #30DayChartChallenge
  - Day 19: [Global Change 🖥️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/19.Global%20Change)
  - Day 20: [Upwards 🐶](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D20.Upwards)
  - Day 21: [Downwards 🛢️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D21.Downwards)
+ - Day 22: [Animation 📺](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D22.Animation)
 <!-- tocstop -->
 </details>
 
@@ -182,3 +183,10 @@ Daily Doge Coin price from the start of the year to Doge Day.
 Venezuela's crude oil exports from 2015 to 2020 (remake of chart from D11).
 
 ![Barplot that shows the decline of Venezuela's crude oil exports from 2015 (around 2.5 million barrels) to 2020 (around 400 thousand barrels)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D21.Downwards/D20.Downwards.png)
+---
+
+**Day 22: Animation** 📺 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D22.Animation/W17_Netflix_Shows.R)
+
+Anime Titles are Getting Popular.
+
+![Area chart that shows the number of anime titles (in black) and anime movies (in red) that has been added to Netflix from 2016 to 2020. The overall number of titles has increased throught the years. From around 20 titles in 2016 to more than 60 titles in 2020.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W17_Netflix_Shows/W16.Netflix%20Titles.gif)
