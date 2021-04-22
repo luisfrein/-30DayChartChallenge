@@ -32,6 +32,7 @@ Repo for the #30DayChartChallenge
  **Time Series**
  - Day 19: [Global Change 🖥️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/19.Global%20Change)
  - Day 20: [Upwards 🐶](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D20.Upwards)
+ - Day 21: [Downwards 🛢️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D21.Downwards)
 <!-- tocstop -->
 </details>
 
@@ -174,3 +175,10 @@ Global Internet access by Income.
 Daily Doge Coin price from the start of the year to Doge Day.
 
 ![Line plot that shows the rise of DogeCoin from the start of the year to Doge Day (April 20). At the start of the year Doge Coin was worth less than 10 cents, by April 20 it was worth around 37 cents. It is a gif so you can see the movement in price animated.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D20.Upwards/D20.Upwards.gif)
+---
+
+**Day 21: Downwards** 🛢️ [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D21.Downwards/D21.Downwards.R)
+
+Venezuela's crude oil exports from 2015 to 2020 (remake of chart from D11).
+
+![Barplot that shows the decline of Venezuela's crude oil exports from 2015 (around 2.5 million barrels) to 2020 (around 400 thousand barrels)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D21.Downwards/D20.Downwards.png)
