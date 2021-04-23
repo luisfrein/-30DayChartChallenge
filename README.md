@@ -34,7 +34,7 @@ Repo for the #30DayChartChallenge
  - Day 20: [Upwards 🐶](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D20.Upwards)
  - Day 21: [Downwards 🛢️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D21.Downwards)
  - Day 22: [Animation 📺](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D22.Animation)
- - Day 23: [Tiles 🇻🇪](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D22.Animation)
+ - Day 23: [Tiles 🇻🇪](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D23.Tiles)
 <!-- tocstop -->
 </details>
 
