@@ -34,6 +34,7 @@ Repo for the #30DayChartChallenge
  - Day 20: [Upwards 🐶](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D20.Upwards)
  - Day 21: [Downwards 🛢️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D21.Downwards)
  - Day 22: [Animation 📺](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D22.Animation)
+ - Day 23: [Tiles 🇻🇪](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D22.Animation)
 <!-- tocstop -->
 </details>
 
@@ -190,3 +191,10 @@ Venezuela's crude oil exports from 2015 to 2020 (remake of chart from D11).
 Anime Titles are Getting Popular.
 
 ![Area chart that shows the number of anime titles (in black) and anime movies (in red) that has been added to Netflix from 2016 to 2020. The overall number of titles has increased throught the years. From around 20 titles in 2016 to more than 60 titles in 2020.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W17_Netflix_Shows/W16.Netflix%20Titles.gif)
+---
+
+**Day 23: Tiles** 🇻🇪 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D23.Tiles/D23.Tiles.R)
+
+Venezuela's monthly Inflation Rate. 2017-2020.
+
+![Semicircular tile chart that shows the monthly inflation rate of Venezuela from 2017 to 2020. The month with the highest inflation was January 2019. And the year with the highest monthly inflation rates was 2018. Data comes from the Central Bank of Venezuela.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D23.Tiles/D23.Tiles.png)
