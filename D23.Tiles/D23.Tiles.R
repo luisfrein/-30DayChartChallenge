@@ -88,8 +88,14 @@ final_plot <- ggdraw(plot) +
             family = 'IBM Plex Sans')
     
   
-#Code to save the plot
+#Code to save the plot. White borders trimmed with Inkscape
 # ggsave('D23.Tiles.svg',
+#        width = 28,
+#        height = 14,
+#        units = 'cm',
+#        dpi = 320)
+
+# ggsave('D23.Tiles.png',
 #        width = 28,
 #        height = 14,
 #        units = 'cm',
