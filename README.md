@@ -35,6 +35,7 @@ Repo for the #30DayChartChallenge
  - Day 21: [Downwards 🛢️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D21.Downwards)
  - Day 22: [Animation 📺](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D22.Animation)
  - Day 23: [Tiles 🇻🇪](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D23.Tiles)
+ - Day 24: [Monochrome 📖](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D24.Monochrome)
 <!-- tocstop -->
 </details>
 
@@ -198,3 +199,10 @@ Anime Titles are Getting Popular.
 Venezuela's monthly Inflation Rate. 2017-2020.
 
 ![Semicircular tile chart that shows the monthly inflation rate of Venezuela from 2017 to 2020. The month with the highest inflation was January 2019. And the year with the highest monthly inflation rates was 2018. Data comes from the Central Bank of Venezuela.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D23.Tiles/D23.Tiles.png)
+---
+
+**Day 24: Monochrome** 📖 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D24.Monochrome/D24.Monochrome.R)
+
+My Reading Timeline (2020).
+
+![Line chart that goes from March 2020 to December 2020 on the x-axis and has the number of books I read each month on the y-axis. The size of the points is proportional to the average number of words of each book I read on that month. I read the most books in November (7 books and around 150,000 average words), May and July have a lower book count (3), but a higher average of words around 200,000](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D24.Monochrome/D24.Monochrome.png)
