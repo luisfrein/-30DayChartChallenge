@@ -4,6 +4,7 @@ library(extrafont)
 library(modelr)
 library(broom)
 library(distributional)
+library(ggdist)
 
 #Get data. Link: https://www.kaggle.com/alinedebenath/global-shark-attacks
 shark_attacks <- read.csv("GSAF5.csv") %>% 
@@ -39,7 +40,7 @@ shark_attacks %>%
   labs(y = "Number of Attacks",
        x = NULL,
        title = "Global Shark Attacks Are Rising",
-       subtitle = "<span style='color:#FC6722;'>**Fatal**</span> attacks have been staying relatively the same throughout the<br>years. <span style='color:#30B06A;'>**Non-fatal**</span> shark attacks have been rising from 1990 to 2016.",
+       subtitle = "<span style='color:#FC6722;'>**Fatal**</span> attacks have been staying relatively the same throughout the years.<br><span style='color:#30B06A;'>**Non-fatal**</span> shark attacks have been rising from 1990 to 2016.<br>Trendline shows, from outer to inner, the 95, 80 and 50% confidence intervals.",
        caption = "<br>Made by **@luisfreii** | Source: **Global Shark Attack File/Kaggle**") +
   coord_cartesian(expand = FALSE, clip = 'off') +
   theme(panel.background = element_rect('#FFFAFA'),
@@ -51,8 +52,10 @@ shark_attacks %>%
         plot.title = ggtext::element_markdown(family = 'Lato',
                                               size = 20,
                                               color = "#525252"),
-        plot.subtitle = ggtext::element_markdown(family = 'Fira Sans',
-                                                 color = "#525252"),
+        plot.subtitle = ggtext::element_markdown(family = 'Lato',
+                                                 color = "#525252",
+                                                 size = 10,
+                                                 lineheight = .9),
         plot.caption = ggtext::element_markdown(family = 'Fira Sans',
                                                 size = 8,
                                                 color = "#525252"),
@@ -67,7 +70,7 @@ shark_attacks %>%
 #Code to save the plot
 # ggsave('D26.Trends.svg',
 #        width = 18,
-#        height = 14,
+#        height = 15,
 #        units = 'cm',
 #        dpi = 320)
 
