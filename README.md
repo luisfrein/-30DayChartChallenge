@@ -39,6 +39,7 @@ Repo for the #30DayChartChallenge
 
 **Uncertainties**
 - Day 25: [Demographics 🇻🇪](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D25.Demographics)
+- Day 26: [Trends 🦈](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D26.Trends)
 <!-- tocstop -->
 </details>
 
@@ -216,3 +217,10 @@ My Reading Timeline (2020).
 Population projection for Venezuela.
 
 ![Line chart that shows the number of people living in Venezuela from 1950 to 2020. After 2020 it shows the population projections made by the United Nations. Points of interest: in 2015 there were 30 million people living in Venezuela, in 2020 there were 28 million people living in the country. This sudden change in the population is due to the mass migrations the country suffered during the five year gap. The projection has 3 variants: high variant 53 million people by 2100, medium variant 34 million people by 2100 and low variant 21 million people by 2100.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D25.Demographics/D25.Demographics.png)
+---
+
+**Day 26: Trends** 🦈 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D26.Trends/D26.Trends.R)
+
+Global shark attacks are rising!.
+
+![Line chart that goes from 1990 to 2016, and shows the trend of fatal (in orange) and non-fatal (in green) global shark attacks. The chart shows that non-fatal attacks have been raising from around 28 in 1990 to around 124 in 2016. Fatal cases have been staying relatively the same, less than 25 attacks every year. The lines for each group also has a shadow that shows the 95, 80 and 50 confidence interval. Dots were also plotted and they show the exact number of cases for each year.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D26.Trends/D26.Trends.png)
