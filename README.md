@@ -41,6 +41,7 @@ Repo for the #30DayChartChallenge
 - Day 25: [Demographics 🇻🇪](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D25.Demographics)
 - Day 26: [Trends 🦈](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D26.Trends)
 - Day 27: [Educational 👩‍🏫](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D27.Educational)
+- Day 28: [Future 👶](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D28.Future)
 <!-- tocstop -->
 </details>
 
@@ -227,8 +228,15 @@ Global shark attacks are rising!.
 ![Line chart that goes from 1990 to 2016, and shows the trend of fatal (in orange) and non-fatal (in green) global shark attacks. The chart shows that non-fatal attacks have been raising from around 28 in 1990 to around 124 in 2016. Fatal cases have been staying relatively the same, less than 25 attacks every year. The lines for each group also has a shadow that shows the 95, 80 and 50 confidence interval. Dots were also plotted and they show the exact number of cases for each year.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D26.Trends/D26.Trends.png)
 ---
 
-**Day 27: Educational** 🦈 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D27.Educational/D27.Educational.R)
+**Day 27: Educational** 👩‍🏫 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D27.Educational/D27.Educational.R)
 
 Parental education levels and students math scores.
 
 ![Plot that shows the distribution of math scores for each parental education level (some high school, high school, some college, associate degree, bachelor degree and master degree). Each group has their distribution shown as a halfeye on the first half and a dot interval on the second half. The chart shows that the median math score for students whose parents have a master's degree is higher than the rest.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D27.Educational/D27.Educational.png)
+---
+
+**Day 28: Future** 👶 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D28.Future/D28.Future.R)
+
+Projected births for Venezuela.
+
+![Line chart that shows the number of people births in Venezuela from 1955 to 2020. After 2020 it shows the projected number of births made by the United Nations. Points of interest: at the end of 2015 there were 2.9 million births in Venezuela, in 2020 there were 2.6 million births in the country. The projection has 3 variants: high variant 3.6 million births by 2100, medium variant 1.6 million births by 2100 and low variant 0.6 million births by 2100.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D28.Future/D28.Future.png)
