@@ -42,6 +42,7 @@ Repo for the #30DayChartChallenge
 - Day 26: [Trends 🦈](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D26.Trends)
 - Day 27: [Educational 👩‍🏫](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D27.Educational)
 - Day 28: [Future 👶](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D28.Future)
+- Day 29: [Deviations 🗺️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D29.Deviations)
 <!-- tocstop -->
 </details>
 
@@ -240,3 +241,10 @@ Parental education levels and students math scores.
 Projected births for Venezuela.
 
 ![Line chart that shows the number of people births in Venezuela from 1955 to 2020. After 2020 it shows the projected number of births made by the United Nations. Points of interest: at the end of 2015 there were 2.9 million births in Venezuela, in 2020 there were 2.6 million births in the country. The projection has 3 variants: high variant 3.6 million births by 2100, medium variant 1.6 million births by 2100 and low variant 0.6 million births by 2100.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D28.Future/D28.Future.png)
+---
+
+**Day 29: Diviations** 👶 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D29.Deviations/D29.Deviations.R)
+
+Corruption Perception Index (2020).
+
+![Plot that shows the distribution of corruption perception index  scores for each region (America, Sub-Saharan Africa, Europe and Central Asia, Asia-Pacific, Middle East and North Africa and the European Union.). Each region has their distribution shown as a halfeye on the first half and a dot interval on the second half. The chart shows that the region with the least corrupt countries is the European Union.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D29.Deviations/D29.Deviations.png)
