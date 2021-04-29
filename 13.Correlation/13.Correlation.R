@@ -2,7 +2,6 @@
 library(tidyverse)
 library(extrafont)
 library(ggrepel)
-library(viridisLite)
 library(ggtext)
 
 #Get the data
