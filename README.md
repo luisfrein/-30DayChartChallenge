@@ -43,6 +43,7 @@ Repo for the #30DayChartChallenge
 - Day 27: [Educational 👩‍🏫](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D27.Educational)
 - Day 28: [Future 👶](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D28.Future)
 - Day 29: [Deviations 🗺️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D29.Deviations)
+- Day 30: [3D 📘](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D30.3D)
 <!-- tocstop -->
 </details>
 
@@ -51,7 +52,7 @@ Repo for the #30DayChartChallenge
 
 In Which Language Do I Prefer Reading?
 
-![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/1.%20Part-to-whole/part-to-whole.png)
+![Pie chart that shows the number of books I've read. It is divided in two sections. The blue one is for 13 books I read in Spanish and the black one is for 45 books I read in English. The chart tells me that I prefer to read books in English.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/1.%20Part-to-whole/part-to-whole.png)
 ---
 
 **Day 2: Pictogram** 🇻🇪 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2.%20Pictogram/2.%20Pictogram.R)
@@ -248,3 +249,10 @@ Projected births for Venezuela.
 Corruption Perception Index (2020).
 
 ![Plot that shows the distribution of corruption perception index  scores for each region (America, Sub-Saharan Africa, Europe and Central Asia, Asia-Pacific, Middle East and North Africa and the European Union.). Each region has their distribution shown as a halfeye on the first half and a dot interval on the second half. The chart shows that the region with the least corrupt countries is the European Union.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D29.Deviations/D29.Deviations.png)
+---
+
+**Day 30: 3D** 📘 
+
+In Which Language Do I Prefer Reading? 3D Version.
+
+![Pie chart that shows the number of books I've read. It is divided in two sections. The blue one is for 13 books I read in Spanish and the black one is for 45 books I read in English. The chart tells me that I prefer to read books in English.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D30.3D/D30.3D.png)
