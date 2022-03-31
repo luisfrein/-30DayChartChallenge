@@ -27,7 +27,7 @@ Repo for the #30DayChartChallenge
  - Day 15: [Multivariate 💹](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/15.Multivariate)
  - Day 16: [Trees ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/16.%20Trees)
  - Day 17: [Pop Culture ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/17.Pop%20Culture)
- - Day 18: [Connections ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/18.Connections)
+ - Day 18: [Connections ⚔️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/18.Connections)
  
  **Time Series**
  - Day 19: [Global Change 🖥️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/19.Global%20Change)
