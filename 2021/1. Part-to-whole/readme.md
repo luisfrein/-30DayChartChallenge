@@ -2,4 +2,4 @@
 
 In Which Language Do I Prefer Reading?
 
-![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/1.%20Part-to-whole/part-to-whole.png)
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/1.%20Part-to-whole/part-to-whole.png)
