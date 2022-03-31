@@ -47,6 +47,11 @@ Repo for the #30DayChartChallenge
 <!-- tocstop -->
 </details>
 
+<details>
+  <summary>If you would like to see all my 2022 contributions click here.</summary>
+  
+  <!-- tocstop -->
+</details>
 
 **Day 1 2022: Part-to-whole** 📘 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/1.%20Part-to-whole/2021/1.%20Part-to-whole.R)
 
