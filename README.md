@@ -2,7 +2,7 @@
 Repo for the #30DayChartChallenge
 
 <details>
-  <summary>If you would like to see all my contributions click here.</summary>
+  <summary>If you would like to see all my 2021 contributions click here.</summary>
 
 <!-- toc -->
 **Comparisons**
