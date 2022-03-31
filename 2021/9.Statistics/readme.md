@@ -2,4 +2,4 @@
 
 Bond Yields for 69 countries.
 
-![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/9.Statistics/yields.png)
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/9.Statistics/yields.png)
