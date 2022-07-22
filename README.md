@@ -38,12 +38,20 @@ Repo for the #30DayChartChallenge
  - Day 24: [Monochrome 📖](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/D24.Monochrome)
 
 **Uncertainties**
+<<<<<<< HEAD
 - Day 25: [Demographics 🇻🇪](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/D25.Demographics)
 - Day 26: [Trends 🦈](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/D26.Trends)
 - Day 27: [Educational 👩‍🏫](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/D27.Educational)
 - Day 28: [Future 👶](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/D28.Future)
 - Day 29: [Deviations 🗺️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/D29.Deviations)
 - Day 30: [3D 📘](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/D30.3D)
+=======
+- Day 25: [Demographics 🇻🇪](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D25.Demographics)
+- Day 26: [Trends 🦈](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D26.Trends)
+- Day 27: [Educational 👩‍🏫](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D27.Educational)
+- Day 28: [Future 👶](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D28.Future)
+- Day 29: [Deviations 🗺️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D29.Deviations)
+>>>>>>> parent of a684525 (Update README.md)
 <!-- tocstop -->
 </details>
 
@@ -57,4 +65,204 @@ Repo for the #30DayChartChallenge
 
 ![Stacked Bar Chart that shows the percentage of venezuelans living in poverty in 2021. 76.6% were living in extreme poverty, 17.9% were living in poverty and only 5.5% were non-poor. Data comes from ENCOVI (2021).](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2022/D1.2022_Part-to-whole/D1_2022.png)
 
+<<<<<<< HEAD
 
+=======
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/1.%20Part-to-whole/part-to-whole.png)
+---
+
+**Day 2: Pictogram** 🇻🇪 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2.%20Pictogram/2.%20Pictogram.R)
+
+Venezuela International Reserves (USD)
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2.%20Pictogram/2Pictogram_English.png)
+---
+
+**Day 3: Historical** 🌎 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/3.Historical/3.Historical.R)
+
+Earth's and Humanity's Age
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/3.Historical/3.Historical.png)
+---
+
+**Day 4: Magical** 🧙 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/4.Magical/4.Magical.R)
+
+Times I Searched 'Magic' in Google
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/4.Magical/4.Magical.png)
+---
+
+**Day 5: Slope** 🇻🇪 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/5.Slope/5.Slope.R)
+
+Number of Venezuelan Migrants
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/5.Slope/5.Slope.png)
+---
+
+**Day 6: Experimental** 🌳 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/6.Experimental/W15_Deforestation.R)
+
+Leading causes of loss of forest in Brazil
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W15_Deforestation/6.Experimental.png)
+---
+
+**Day 7: Physical** 📚
+
+My attempt at manking a physical (hand drawn) histogram.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/7.Physical/7.Physical.jpg)
+---
+
+**Day 8: Animal** 🦈 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/8.Animal/8.Animal.R)
+
+Fatan and non-fatal shark attacks.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/8.Animal/8.Animal.png)
+---
+
+**Day 9: Statistics** 💰 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/9.Statistics/9.Statistics.R)
+
+Bond Yields for 69 countries.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/9.Statistics/yields.png)
+---
+
+**Day 10: Abstract** 🎨 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/10.Abstract/10.Abstract.R)
+
+Abstract Art with the colors I used for the first 9 of the #30DayChartChallenge.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/10.Abstract/10.Abstract.png)
+---
+
+**Day 11: Circular** 🛢️ [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/11.Circular/11.Circular.R)
+
+Venezuela's crude oil exports from 2015 to 2020.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/11.Circular/11.Circular.png)
+---
+
+**Day 12: Strips** 💱 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/12.Stripes/12.Stripes.R)
+
+Daily Ethereum Price. March 2016 to March 2021.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/12.Stripes/12.Stripes.png)
+---
+
+**Day 13: Correlation** 💱 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/13.Correlation/13.Correlation.R)
+
+Scatterplot of Corruption Perception Index and GDP Per Capita.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/13.Correlation/13.Correlation.png)
+---
+
+**Day 14: Space** 🌍 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/14.Space/14.Space.R)
+
+A Year in Our Solar System.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/14.Space/14.Space.png)
+---
+
+**Day 15: Multivariate** 💹 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/15.Multivariate/15.Multivariate.R)
+
+Human Development Index And Its Components.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/15.Multivariate/15.Multivariate.png)
+---
+
+**Day 16: Trees** ⚔️ [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W05_Plastic_Pollution/W05_Plastic_Pollution.R)
+
+The 30 Game of Thrones Characters With the Most Appearances.
+
+![Treemap that shows the 30 Game of Thrones Characters with the most appearances. The 7 characters with the most appearances also have their sketch inside their respective rectangle. This characters are Tyrion (67 episodes), Cersei, Daenerys, and Jon Snow with 62 episodes, Sansa and Arya with 59 episodes and Jaime with 55 episodes](https://github.com/luisfrein/-30DayChartChallenge/blob/master/16.%20Trees/D16.Trees2.png)
+---
+
+**Day 17: Pop Culture** ⚔️ [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/17.Pop%20Culture/17.Pop%20Culture.R)
+
+Game of Thrones Thorugh the Seasons.
+
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/17.Pop%20Culture/17.Pop%20Culture.png)
+---
+
+**Day 18: Connections** ⚔️ [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/18.Connections/18.Connections.R)
+
+Most common word pairs in Game of Thrones episode summaries.
+
+![Network plot that shows the most common word pairs found in Game of Thrones episode summaries. Pairs like Jon Snow, King's landing, Arya runs, castle black, difficult decision, etc.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/18.Connections/D18.Connections.png)
+---
+
+**Day 19: Global Change** 🖥️ [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/19.Global%20Change/19.Global%20Change.R)
+
+Global Internet access by Income.
+
+![Line plot that shows the percentage of individuals with access to the internet by 3 different country groups, from 1990 to 2017. High income countries (around 80%), middle-income countries (around 40%), and low income countries (around 18%). It is a gif so you can see the movement of the lines animated.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/19.Global%20Change/D19.Global%20Change.gif)
+---
+
+**Day 20: Upwards** 🐶 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D20.Upwards/D20.Upwards.R)
+
+Daily Doge Coin price from the start of the year to Doge Day.
+
+![Line plot that shows the rise of DogeCoin from the start of the year to Doge Day (April 20). At the start of the year Doge Coin was worth less than 10 cents, by April 20 it was worth around 37 cents. It is a gif so you can see the movement in price animated.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D20.Upwards/D20.Upwards.gif)
+---
+
+**Day 21: Downwards** 🛢️ [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D21.Downwards/D21.Downwards.R)
+
+Venezuela's crude oil exports from 2015 to 2020 (remake of chart from D11).
+
+![Barplot that shows the decline of Venezuela's crude oil exports from 2015 (around 2.5 million barrels) to 2020 (around 400 thousand barrels)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D21.Downwards/D20.Downwards.png)
+---
+
+**Day 22: Animation** 📺 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D22.Animation/W17_Netflix_Shows.R)
+
+Anime Titles are Getting Popular.
+
+![Area chart that shows the number of anime titles (in black) and anime movies (in red) that has been added to Netflix from 2016 to 2020. The overall number of titles has increased throught the years. From around 20 titles in 2016 to more than 60 titles in 2020.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W17_Netflix_Shows/W16.Netflix%20Titles.gif)
+---
+
+**Day 23: Tiles** 🇻🇪 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D23.Tiles/D23.Tiles.R)
+
+Venezuela's monthly Inflation Rate. 2017-2020.
+
+![Semicircular tile chart that shows the monthly inflation rate of Venezuela from 2017 to 2020. The month with the highest inflation was January 2019. And the year with the highest monthly inflation rates was 2018. Data comes from the Central Bank of Venezuela.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D23.Tiles/D23.Tiles.png)
+---
+
+**Day 24: Monochrome** 📖 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D24.Monochrome/D24.Monochrome.R)
+
+My Reading Timeline (2020).
+
+![Line chart that goes from March 2020 to December 2020 on the x-axis and has the number of books I read each month on the y-axis. The size of the points is proportional to the average number of words of each book I read on that month. I read the most books in November (7 books and around 150,000 average words), May and July have a lower book count (3), but a higher average of words around 200,000](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D24.Monochrome/D24.Monochrome.png)
+---
+
+**Day 25: Demographics** 🇻🇪 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D25.Demographics/D25.Demographics.R)
+
+Population projection for Venezuela.
+
+![Line chart that shows the number of people living in Venezuela from 1950 to 2020. After 2020 it shows the population projections made by the United Nations. Points of interest: in 2015 there were 30 million people living in Venezuela, in 2020 there were 28 million people living in the country. This sudden change in the population is due to the mass migrations the country suffered during the five year gap. The projection has 3 variants: high variant 53 million people by 2100, medium variant 34 million people by 2100 and low variant 21 million people by 2100.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D25.Demographics/D25.Demographics.png)
+---
+
+**Day 26: Trends** 🦈 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D26.Trends/D26.Trends.R)
+
+Global shark attacks are rising!.
+
+![Line chart that goes from 1990 to 2016, and shows the trend of fatal (in orange) and non-fatal (in green) global shark attacks. The chart shows that non-fatal attacks have been raising from around 28 in 1990 to around 124 in 2016. Fatal cases have been staying relatively the same, less than 25 attacks every year. The lines for each group also has a shadow that shows the 95, 80 and 50 confidence interval. Dots were also plotted and they show the exact number of cases for each year.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D26.Trends/D26.Trends.png)
+---
+
+**Day 27: Educational** 👩‍🏫 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D27.Educational/D27.Educational.R)
+
+Parental education levels and students math scores.
+
+![Plot that shows the distribution of math scores for each parental education level (some high school, high school, some college, associate degree, bachelor degree and master degree). Each group has their distribution shown as a halfeye on the first half and a dot interval on the second half. The chart shows that the median math score for students whose parents have a master's degree is higher than the rest.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D27.Educational/D27.Educational.png)
+---
+
+**Day 28: Future** 👶 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D28.Future/D28.Future.R)
+
+Projected births for Venezuela.
+
+![Line chart that shows the number of people births in Venezuela from 1955 to 2020. After 2020 it shows the projected number of births made by the United Nations. Points of interest: at the end of 2015 there were 2.9 million births in Venezuela, in 2020 there were 2.6 million births in the country. The projection has 3 variants: high variant 3.6 million births by 2100, medium variant 1.6 million births by 2100 and low variant 0.6 million births by 2100.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D28.Future/D28.Future.png)
+---
+
+**Day 29: Diviations** 👶 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D29.Deviations/D29.Deviations.R)
+
+Corruption Perception Index (2020).
+
+![Plot that shows the distribution of corruption perception index  scores for each region (America, Sub-Saharan Africa, Europe and Central Asia, Asia-Pacific, Middle East and North Africa and the European Union.). Each region has their distribution shown as a halfeye on the first half and a dot interval on the second half. The chart shows that the region with the least corrupt countries is the European Union.](https://github.com/luisfrein/-30DayChartChallenge/blob/master/D29.Deviations/D29.Deviations.png)
+>>>>>>> parent of a684525 (Update README.md)
