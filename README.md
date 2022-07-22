@@ -61,9 +61,7 @@ Repo for the #30DayChartChallenge
   <!-- tocstop -->
 </details>
 
-**Day 1 2022: Part-to-whole** 📘 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2022/D1.2022_Part-to-whole/D1_2022_Part-to-whole.R)
-
-![Stacked Bar Chart that shows the percentage of venezuelans living in poverty in 2021. 76.6% were living in extreme poverty, 17.9% were living in poverty and only 5.5% were non-poor. Data comes from ENCOVI (2021).](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2022/D1.2022_Part-to-whole/D1_2022.png)
+**Day 1 2022: Part-to-whole** 📘 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/1.%20Part-to-whole/2021/1.%20Part-to-whole.R)
 
 <<<<<<< HEAD
 
