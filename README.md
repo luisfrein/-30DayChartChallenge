@@ -38,7 +38,6 @@ Repo for the #30DayChartChallenge
  - Day 24: [Monochrome 📖](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/D24.Monochrome)
 
 **Uncertainties**
-<<<<<<< HEAD
 - Day 25: [Demographics 🇻🇪](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/D25.Demographics)
 - Day 26: [Trends 🦈](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/D26.Trends)
 - Day 27: [Educational 👩‍🏫](https://github.com/luisfrein/-30DayChartChallenge/tree/master/2021/D27.Educational)
@@ -51,64 +50,56 @@ Repo for the #30DayChartChallenge
 - Day 27: [Educational 👩‍🏫](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D27.Educational)
 - Day 28: [Future 👶](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D28.Future)
 - Day 29: [Deviations 🗺️](https://github.com/luisfrein/-30DayChartChallenge/tree/master/D29.Deviations)
->>>>>>> parent of a684525 (Update README.md)
 <!-- tocstop -->
 </details>
 
-<details>
-  <summary>If you would like to see all my 2022 contributions click here.</summary>
-  
-  <!-- tocstop -->
-</details>
+**Day 1: Part-to-whole** [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/1.%20Part-to-whole/1.%20Part-to-whole.R)
 
-**Day 1 2022: Part-to-whole** 📘 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/1.%20Part-to-whole/2021/1.%20Part-to-whole.R)
+In Which Language Do I Prefer Reading?
 
-<<<<<<< HEAD
-
-=======
-![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/1.%20Part-to-whole/part-to-whole.png)
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/1.%20Part-to-whole/part-to-whole.png)
 ---
 
-**Day 2: Pictogram** 🇻🇪 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2.%20Pictogram/2.%20Pictogram.R)
+**Day 2: Pictogram** 🇻🇪 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/2.%20Pictogram/2.%20Pictogram.R)
 
 Venezuela International Reserves (USD)
 
-![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2.%20Pictogram/2Pictogram_English.png)
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/2.%20Pictogram/2Pictogram_Spanish.png)
 ---
 
-**Day 3: Historical** 🌎 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/3.Historical/3.Historical.R)
+**Day 3: Historical** 🌎 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/3.Historical/3.Historical.R
 
 Earth's and Humanity's Age
 
-![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/3.Historical/3.Historical.png)
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/3.Historical/3.Historical.png)
 ---
 
-**Day 4: Magical** 🧙 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/4.Magical/4.Magical.R)
+**Day 4: Magical** 🧙 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/4.Magical/4.Magical.R)
 
 Times I Searched 'Magic' in Google
 
-![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/4.Magical/4.Magical.png)
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/4.Magical/4.Magical.png)
 ---
 
-**Day 5: Slope** 🇻🇪 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/5.Slope/5.Slope.R)
+**Day 5: Slope** 🇻🇪 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/5.Slope/5.Slope.R)
 
 Number of Venezuelan Migrants
 
-![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/5.Slope/5.Slope.png)
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/5.Slope/5.Slope.png)
 ---
 
-**Day 6: Experimental** 🌳 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/6.Experimental/W15_Deforestation.R)
+**Day 6: Experimental** 🌳 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/6.Experimental/W15_Deforestation.R)
 
 Leading causes of loss of forest in Brazil
 
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W15_Deforestation/6.Experimental.png)
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/6.Experimental/6.Experimental.png)
 ---
 
 **Day 7: Physical** 📚
 
 My attempt at manking a physical (hand drawn) histogram.
 
-![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/7.Physical/7.Physical.jpg)
+![alt text](https://github.com/luisfrein/-30DayChartChallenge/blob/master/2021/8.Animal/8.Animal.R)
 ---
 
 **Day 8: Animal** 🦈 [(code)](https://github.com/luisfrein/-30DayChartChallenge/blob/master/8.Animal/8.Animal.R)
